@@ -2,7 +2,7 @@
 .atom/
 .idea/
 .vscode/
-
+generated_plugin_registrant.dart
 .packages
 .pub/
 .dart_tool/
