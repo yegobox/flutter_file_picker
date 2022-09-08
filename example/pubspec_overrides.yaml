@@ -1,0 +1,6 @@
+# melos_managed_dependency_overrides: file_picker,win32
+dependency_overrides:
+  file_picker:
+    path: ..
+  win32:
+    path: ..\\..\\win32
