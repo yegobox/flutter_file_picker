@@ -14,7 +14,7 @@ dependencies:
   flutter_plugin_android_lifecycle: ^2.0.2
   plugin_platform_interface: ^2.0.0
   ffi: ^2.0.1
-  path: ^1.8.0
+  path: ^1.8.2
   win32: ^3.0.0
 
 dev_dependencies:
